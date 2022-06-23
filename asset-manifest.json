@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/linksaver-with-localStorage/static/css/main.7bf69ef3.css",
-    "main.js": "/linksaver-with-localStorage/static/js/main.a54511e9.js",
+    "main.css": "/linksaver-with-localStorage/static/css/main.2c8e9415.css",
+    "main.js": "/linksaver-with-localStorage/static/js/main.65f564a6.js",
     "static/media/logo.png": "/linksaver-with-localStorage/static/media/logo.0e0fa9bfd26c6bbb45e4.png",
     "static/media/Oswald-Light.ttf": "/linksaver-with-localStorage/static/media/Oswald-Light.eb388cc4258f0d6ce064.ttf",
     "index.html": "/linksaver-with-localStorage/index.html",
-    "main.7bf69ef3.css.map": "/linksaver-with-localStorage/static/css/main.7bf69ef3.css.map",
-    "main.a54511e9.js.map": "/linksaver-with-localStorage/static/js/main.a54511e9.js.map"
+    "main.2c8e9415.css.map": "/linksaver-with-localStorage/static/css/main.2c8e9415.css.map",
+    "main.65f564a6.js.map": "/linksaver-with-localStorage/static/js/main.65f564a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bf69ef3.css",
-    "static/js/main.a54511e9.js"
+    "static/css/main.2c8e9415.css",
+    "static/js/main.65f564a6.js"
   ]
 }
