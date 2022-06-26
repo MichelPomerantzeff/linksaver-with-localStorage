@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/linksaver-with-localStorage/static/css/main.7e2723c5.css",
+    "main.css": "/linksaver-with-localStorage/static/css/main.6a875b33.css",
     "main.js": "/linksaver-with-localStorage/static/js/main.1dce1271.js",
     "static/media/logo.png": "/linksaver-with-localStorage/static/media/logo.0e0fa9bfd26c6bbb45e4.png",
     "static/media/Oswald-Light.ttf": "/linksaver-with-localStorage/static/media/Oswald-Light.eb388cc4258f0d6ce064.ttf",
     "index.html": "/linksaver-with-localStorage/index.html",
-    "main.7e2723c5.css.map": "/linksaver-with-localStorage/static/css/main.7e2723c5.css.map",
+    "main.6a875b33.css.map": "/linksaver-with-localStorage/static/css/main.6a875b33.css.map",
     "main.1dce1271.js.map": "/linksaver-with-localStorage/static/js/main.1dce1271.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e2723c5.css",
+    "static/css/main.6a875b33.css",
     "static/js/main.1dce1271.js"
   ]
 }
